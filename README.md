@@ -7,7 +7,7 @@ _Department of Public Administration and Policy, Rockefeller College of Public A
 #### What's Included
 
 - [Abstract](#abstract)
-- [Disparities Report](#)
+- [Disparities Report](#disparities-report)
   - [Vaccine Hesitancy](#vaccine-hesitancy)
   - [Economic Impacts](#economic-impacts)
   - [Direct COVID19 Exposure/Impact](#direct covid19 exposure/impact)
