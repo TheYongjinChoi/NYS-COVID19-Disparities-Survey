@@ -1,7 +1,15 @@
 # Doubly Burdened: Race-Ethnic Disparities in the Effects of COVID-19 and COVID-19 Mitigation Strategies: NYS COVID19 Disparities White Paper
 
 _Ashley Fox & Yongjin Choi_
+
 _Department of Public Administration and Policy, Rockefeller College of Public Affairs and Policy, University at Albany, State University of New York, Albany, NY, USA_
+
+#### What's Included
+
+- [Summary](#summary)
+- [Project Information](#project-information)
+
+***
 
 This is a repository of the NYS COVID19 Disparities Survey. The following is the information of the survey.
 * Time Period: Nov. 23. 2020 - Dec. 8. 2020.
