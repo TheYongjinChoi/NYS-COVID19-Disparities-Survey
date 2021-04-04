@@ -16,7 +16,7 @@ Prepared for the NYS COVID-19 Minority Health Disparities Team, University at Al
   * [Economic Impacts](#economic-impacts)
   * [Direct COVID19 Exposure and Impact](#direct-covid19-exposure-and-impact)
   * [School Closures](#school-closures)
-  * [Race, Racism and Support for the Black Lives Matter Movement](#race,-racism-and-support-for-the-black-lives-matter-movement)
+  * [Race, Racism and Support for the Black Lives Matter Movement](#race-racism-and-support-for-the-black-lives-matter-movement)
   * [Policy Attitudes](#police-attitudes)
 * [Project Information](#project-information)
 * [File Descriptions](#file-descriptions)
