@@ -37,7 +37,7 @@ Last updated: April 4th, 2021</br>
 * Funding: The Community-Engagement Researchers Group, Governor's Task Force on COVID-19 Disparities, University at Albany.
 * Time Period: Nov. 23. 2020 - Dec. 8. 2020.
 * Sample Information
-  * Size: 1,353 (based on Dec-11th version).
+  * Size: 1,353
   * Ages 18 or higher
   * Area: New York State
 * Method: Qualtrics Online survey.
