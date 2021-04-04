@@ -25,17 +25,12 @@ _<sup>1</sup> Associate Professor, Department of Public Administration and Polic
 
 #### File Descriptions
 
-* Data
-  * **NYS_COVID19_Disparities_Numeric.csv**: Numeric version of the raw data
-  * **NYS_COVID19_Disparities_Text.csv**: Text version of the raw data
-
-* Codebook
-  * **NYS_COVID19_Disparities_Codebook.docx**
-
-* Review and Analysis
-  * **White Paper.md**
+* **NYS_COVID19_Disparities_Numeric**: Numeric version of the raw data
+* **Survey Questionnaires.docx**
+* **NYS_COVID19_WhitePaper_final.pdf**: PDF version of the white paper
 
 Last updated: April 4th, 2021</br>
+***
 
 ## Project Information
 
