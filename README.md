@@ -2,6 +2,7 @@
 
 Authors: Ashley Fox<sup>1</sup> & Yongjin Choi<sup>2</sup></br>
 Contributors: Heather Lanthorn<sup>3</sup> & Kevin Croke<sup>4</sup></br>
+
 _<sup>1</sup> Associate Professor, Department of Public Administration and Policy, Rockefeller College of Public Affairs and Policy, UAlbany</br>
 <sup>2</sup> Doctoral Candidate, Department of Public Administration and Policy, Rockefeller College of Public Affairs and Policy, UAlbany</br>
 <sup>3</sup> IDinsight, San Francisco, CA</br>
