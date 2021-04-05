@@ -8,7 +8,6 @@ _<sup>1</sup> Associate Professor, Department of Public Administration and Polic
 <sup>3</sup> IDinsight, San Francisco, CA</br>
 <sup>4</sup> Department of Global Health and Population, Havard T.H. Chan School of Public Health, Boston, MA_
 
-**Prepared for the NYS COVID-19 Minority Health Disparities Team, University at Albany**
 
 #### What's Included
 
@@ -38,6 +37,7 @@ Last updated: April 4th, 2021</br>
 
 ## Project Information
 
+* Prepared for the NYS COVID-19 Minority Health Disparities Team, University at Albany
 * Funding: The Community-Engagement Researchers Group, Governor's Task Force on COVID-19 Disparities, University at Albany.
 * Time Period: Nov. 23. 2020 - Dec. 8. 2020.
 * Sample Information
