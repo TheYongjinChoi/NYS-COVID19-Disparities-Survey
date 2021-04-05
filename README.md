@@ -1,6 +1,6 @@
 # Doubly Burdened: Race-Ethnic Disparities in the Effects of COVID-19 and COVID-19 Mitigation Strategies (NYS COVID-19 Disparities White Paper)
 
-Authors: Ashley Fox<sup>1</sup> & Yongjin Choi<sup>2</sup></br>
+Authors: [Ashley Fox](twitter.com/ashfoxly)<sup>1</sup> & [Yongjin Choi](twitter.com/TheYongjinChoi)<sup>2</sup></br>
 Contributors: Heather Lanthorn<sup>3</sup> & Kevin Croke<sup>4</sup></br>
 
 _<sup>1</sup> Associate Professor, Department of Public Administration and Policy, Rockefeller College of Public Affairs and Policy, UAlbany</br>
